@@ -4,6 +4,6 @@
 
 **Tools & OS**: Linux (Ubuntu/Debian), VS Code, Git
 
-**Platforms**: TryHackMe.
+**Platforms**: Letsdefend
 
 **Mục tiêu/Dự án đang làm:** lộ trình Tự động hóa SOC và nâng cao tư duy Backend.
